@@ -3,4 +3,4 @@
 - React
 - Rechart
 - Material UI
-- NBP Web API (api.nbp.pl)
+- NBP Web API (https://api.nbp.pl)
