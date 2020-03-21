@@ -1,4 +1,6 @@
 # Currency-Price-Checker
+## Check app
+- https://codesandbox.io/s/compassionate-lederberg-dgobb
 ## Stack
 - React
 - Rechart
